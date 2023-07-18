@@ -1,0 +1,8 @@
+/home/haroldo/ambient/git/TCC/consumir/bin/Debug/net7.0/publish/consumir
+/home/haroldo/ambient/git/TCC/consumir/bin/Debug/net7.0/publish/consumir.dll
+/home/haroldo/ambient/git/TCC/consumir/bin/Debug/net7.0/publish/consumir.deps.json
+/home/haroldo/ambient/git/TCC/consumir/bin/Debug/net7.0/publish/consumir.runtimeconfig.json
+/home/haroldo/ambient/git/TCC/consumir/bin/Debug/net7.0/publish/consumir.pdb
+/home/haroldo/ambient/git/TCC/consumir/bin/Debug/net7.0/publish/Flurl.dll
+/home/haroldo/ambient/git/TCC/consumir/bin/Debug/net7.0/publish/Flurl.Http.dll
+/home/haroldo/ambient/git/TCC/consumir/bin/Debug/net7.0/publish/Newtonsoft.Json.dll
