@@ -30,12 +30,7 @@ string ponto = url + "/api/Animal/";
 #endregion
 
 
-System.Console.WriteLine("--------- put");
-System.Console.WriteLine("Digite id para deletar");
-long id = Convert.ToInt64(Console.ReadLine());
- var del  = url + "/api/Animal/{id}";
 
- await del.PostAsync(CancellationToken.None,Animal.Id,HttpCompletionOption.ResponseContentRead);
 
 
 System.Console.WriteLine("=============");
