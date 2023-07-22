@@ -70,7 +70,7 @@ namespace PetShop.Controllers
             {
                 if (!AnimalExists(id))
                 {
-                    return NotFound();
+                    return Ok();
                 }
                 else
                 {
